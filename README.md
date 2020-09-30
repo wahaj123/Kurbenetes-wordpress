@@ -6,11 +6,6 @@ Check https://github.com/kubernetes/minikube for the latest version of Minikube
 
 * Clone this repo and run the following command to setup and configure Minikube
 
-```
-git clone https://github.com/janakiramm/minikube-demo.git
-
-````
-
 * Run the shell script to download and install Minikube binary
 
 ```
